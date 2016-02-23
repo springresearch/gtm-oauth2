@@ -24,7 +24,7 @@
 
 #if TARGET_OS_IPHONE
 
-#import "GTMOAuth2ViewControllerTouch.h"
+#import "GTL/GTMOAuth2ViewControllerTouch.h"
 
 #import "GTMOAuth2SignIn.h"
 #import "GTMOAuth2Authentication.h"
